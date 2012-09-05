@@ -1,0 +1,19 @@
+#labels svn,Phase-QA
+= Introduction =
+
+使用SVN1.6.5管理工程
+
+= Details =
+
+使用方法:
+
+  
+1.安装SVN1.6.5
+
+2.安装汉化包
+
+3.新建一个文件夹
+
+4.右键文件夹，单击"SVN Checkout/SVN 检出"
+
+5.
