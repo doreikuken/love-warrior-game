@@ -1,4 +1,5 @@
-﻿项目地址：https://code.google.com/p/love-warrior-game/
+﻿SVN下载地址：http://pan.baidu.com/share/link?shareid=24780&uk=117493338
+项目地址：https://code.google.com/p/love-warrior-game/
 项目文件目录（SVN提交地址）：https://love-warrior-game.googlecode.com/svn/trunk/
 获取密码地址：https://code.google.com/hosting/settings
 
