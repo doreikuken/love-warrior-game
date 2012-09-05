@@ -1,1 +1,3 @@
-﻿ksjdklfjaskljdfkljsdfssdfgdgf 
+﻿
+每次更改内容前先对本文件夹选择 "SVN 更新"
+更改后对本文件夹选择 "SVN 提交"
